@@ -20,3 +20,9 @@ Outside of work, my hobbies include bodybuilding, basketball, playing guitar, an
 If you have any questions related to employment opportunities or project contributions, feel free to contact me through email, phone, or direct message. I am always open to connecting and sharing my knowledge and experience.
 
 ---
+
+## Professional Self-Assessment
+
+This section provides an overview of my technical growth, professional experience, and the skills demonstrated throughout this ePortfolio.
+
+[View Full Self-Assessment](sections/self-assessment.md)
