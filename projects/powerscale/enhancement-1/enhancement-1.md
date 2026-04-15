@@ -45,6 +45,24 @@ In addition, **DAO-style separation** was introduced for database operations, an
 
 ---
 
+## Architectural and Design Screenshots
+
+The following figures illustrate the design and implementation of the software engineering improvements introduced in Enhancement 1. These include the planned system architecture and the resulting project structure after applying the Model-View-ViewModel (MVVM) pattern.
+
+<p align="center">
+  <img src="{{ '/assets/images/enhancement-1-diagram.png' | relative_url }}" width="500">
+</p>
+<p align="center"><em>Figure 3. Enhancement 1 design diagram illustrating the planned MVVM architecture and separation of concerns.</em></p>
+
+<br>
+
+<p align="center">
+  <img src="{{ '/assets/images/mvvm.png' | relative_url }}" width="500">
+</p>
+<p align="center"><em>Figure 4. Refactored project structure demonstrating implementation of the MVVM architecture and layered design.</em></p>
+
+---
+
 ## Skills Demonstrated
 
 This enhancement demonstrates:

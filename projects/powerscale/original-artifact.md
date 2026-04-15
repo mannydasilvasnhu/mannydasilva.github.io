@@ -23,12 +23,19 @@ This baseline version is important because it establishes the starting point fro
 
 ## Application Screenshots
 
-The following screenshots show the original user interface of the PowerScale application prior to enhancement, these include the login and home screens.
+The following figures show parts the original user interface of the PowerScale application prior to enhancement.
 
 <p align="center">
   <img src="{{ '/assets/images/login.png' | relative_url }}" width="250">
+</p>
+<p align="center"><em>Figure 1. Login screen showing user authentication interface.</em></p>
+
+<br>
+
+<p align="center">
   <img src="{{ '/assets/images/home.png' | relative_url }}" width="250">
 </p>
+<p align="center"><em>Figure 2. Home screen displaying primary navigation options available to the user.</em></p>
 
 ---
 

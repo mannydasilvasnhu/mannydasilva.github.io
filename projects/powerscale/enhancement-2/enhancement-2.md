@@ -47,6 +47,31 @@ This functionality provides meaningful feedback to users based on their weight t
 
 ---
 
+## Algorithm and Feature Screenshots
+
+The following figures illustrate the design, implementation, and user-facing functionality of the algorithmic enhancements introduced in Enhancement 2. These include the system design, the moving average algorithm implementation, and the resulting trend analysis feature within the application.
+
+<p align="center">
+  <img src="{{ '/assets/images/enhancement-2-diagram.png' | relative_url }}" width="500">
+</p>
+<p align="center"><em>Figure 5. Enhancement 2 design diagram illustrating the integration of the moving average algorithm and trend analysis workflow.</em></p>
+
+<br>
+
+<p align="center">
+  <img src="{{ '/assets/images/algorithm.png' | relative_url }}" width="500">
+</p>
+<p align="center"><em>Figure 6. Sliding window moving average algorithm implementation used to efficiently compute weight trends with O(n) time complexity.</em></p>
+
+<br>
+
+<p align="center">
+  <img src="{{ '/assets/images/trends.png' | relative_url }}" width="250">
+</p>
+<p align="center"><em>Figure 7. Trends screen displaying calculated moving average results and trend direction for user weight data.</em></p>
+
+---
+
 ## Skills Demonstrated
 
 This enhancement demonstrates:

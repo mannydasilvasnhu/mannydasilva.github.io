@@ -48,6 +48,31 @@ These improvements ensure that the database enforces consistency, performs effic
 
 ---
 
+## Database and Migration Screenshots
+
+The following figures illustrate the design and implementation of the database enhancements introduced in Enhancement 3. These include the migration workflow, schema update process, and the logic used to safely upgrade the database while preserving existing user data.
+
+<p align="center">
+  <img src="{{ '/assets/images/enhancement-3-diagram.png' | relative_url }}" width="500">
+</p>
+<p align="center"><em>Figure 8. Enhancement 3 design diagram illustrating the database migration workflow, including schema updates, constraints, and indexing.</em></p>
+
+<br>
+
+<p align="center">
+  <img src="{{ '/assets/images/migration.png' | relative_url }}" width="500">
+</p>
+<p align="center"><em>Figure 9. Migration logic demonstrating safe schema updates, including table renaming, data transfer, and constraint enforcement.</em></p>
+
+<br>
+
+<p align="center">
+  <img src="{{ '/assets/images/onUpgrade.png' | relative_url }}" width="500">
+</p>
+<p align="center"><em>Figure 10. onUpgrade method controlling database version changes and triggering the appropriate migration process.</em></p>
+
+---
+
 ## Skills Demonstrated
 
 This enhancement demonstrates:
