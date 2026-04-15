@@ -65,7 +65,7 @@ This section provides an overview of the PowerScale application and the enhancem
 Feel free to reach out or connect with me professionally:
 
 <p align="center">
-  <a href="mannydasilva2002@gmail.com">
+  <a href="mailto:mannydasilva2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
